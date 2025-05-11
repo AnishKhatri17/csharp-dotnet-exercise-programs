@@ -1,0 +1,7 @@
+C:\Users\97798\Desktop\C# Programming\Area of Circle\Area of Circle\bin\Debug\Area of Circle.exe.config
+C:\Users\97798\Desktop\C# Programming\Area of Circle\Area of Circle\bin\Debug\Area of Circle.exe
+C:\Users\97798\Desktop\C# Programming\Area of Circle\Area of Circle\bin\Debug\Area of Circle.pdb
+C:\Users\97798\Desktop\C# Programming\Area of Circle\Area of Circle\obj\Debug\Area of Circle.csproj.AssemblyReference.cache
+C:\Users\97798\Desktop\C# Programming\Area of Circle\Area of Circle\obj\Debug\Area of Circle.csproj.CoreCompileInputs.cache
+C:\Users\97798\Desktop\C# Programming\Area of Circle\Area of Circle\obj\Debug\Area of Circle.exe
+C:\Users\97798\Desktop\C# Programming\Area of Circle\Area of Circle\obj\Debug\Area of Circle.pdb
