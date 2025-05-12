@@ -1,0 +1,7 @@
+C:\Users\97798\Desktop\C# Programming\Area of Rectangle\Area of Rectangle\bin\Debug\Area of Rectangle.exe.config
+C:\Users\97798\Desktop\C# Programming\Area of Rectangle\Area of Rectangle\bin\Debug\Area of Rectangle.exe
+C:\Users\97798\Desktop\C# Programming\Area of Rectangle\Area of Rectangle\bin\Debug\Area of Rectangle.pdb
+C:\Users\97798\Desktop\C# Programming\Area of Rectangle\Area of Rectangle\obj\Debug\Area of Rectangle.csproj.AssemblyReference.cache
+C:\Users\97798\Desktop\C# Programming\Area of Rectangle\Area of Rectangle\obj\Debug\Area of Rectangle.csproj.CoreCompileInputs.cache
+C:\Users\97798\Desktop\C# Programming\Area of Rectangle\Area of Rectangle\obj\Debug\Area of Rectangle.exe
+C:\Users\97798\Desktop\C# Programming\Area of Rectangle\Area of Rectangle\obj\Debug\Area of Rectangle.pdb
