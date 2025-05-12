@@ -1,0 +1,7 @@
+C:\Users\97798\Desktop\C# Programming\MiddleNumber\MiddleNumber\bin\Debug\MiddleNumber.exe.config
+C:\Users\97798\Desktop\C# Programming\MiddleNumber\MiddleNumber\bin\Debug\MiddleNumber.exe
+C:\Users\97798\Desktop\C# Programming\MiddleNumber\MiddleNumber\bin\Debug\MiddleNumber.pdb
+C:\Users\97798\Desktop\C# Programming\MiddleNumber\MiddleNumber\obj\Debug\MiddleNumber.csproj.AssemblyReference.cache
+C:\Users\97798\Desktop\C# Programming\MiddleNumber\MiddleNumber\obj\Debug\MiddleNumber.csproj.CoreCompileInputs.cache
+C:\Users\97798\Desktop\C# Programming\MiddleNumber\MiddleNumber\obj\Debug\MiddleNumber.exe
+C:\Users\97798\Desktop\C# Programming\MiddleNumber\MiddleNumber\obj\Debug\MiddleNumber.pdb
