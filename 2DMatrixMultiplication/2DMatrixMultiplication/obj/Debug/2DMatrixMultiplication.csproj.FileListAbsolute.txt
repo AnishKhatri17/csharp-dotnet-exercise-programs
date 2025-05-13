@@ -1,0 +1,14 @@
+C:\Users\97798\Desktop\C# Programming\2DMatrixMultiplication\2DMatrixMultiplication\obj\Debug\2DMatrixMultiplication.csproj.AssemblyReference.cache
+C:\Users\97798\Desktop\C# Programming\2DMatrixMultiplication\2DMatrixMultiplication\obj\Debug\2DMatrixMultiplication.csproj.CoreCompileInputs.cache
+C:\Users\97798\Desktop\C# Programming\2DMatrixMultiplication\2DMatrixMultiplication\bin\Debug\2DMatrixMultiplication.exe.config
+C:\Users\97798\Desktop\C# Programming\2DMatrixMultiplication\2DMatrixMultiplication\bin\Debug\2DMatrixMultiplication.exe
+C:\Users\97798\Desktop\C# Programming\2DMatrixMultiplication\2DMatrixMultiplication\bin\Debug\2DMatrixMultiplication.pdb
+C:\Users\97798\Desktop\C# Programming\2DMatrixMultiplication\2DMatrixMultiplication\obj\Debug\2DMatrixMultiplication.exe
+C:\Users\97798\Desktop\C# Programming\2DMatrixMultiplication\2DMatrixMultiplication\obj\Debug\2DMatrixMultiplication.pdb
+C:\Users\97798\Documents\C# Programming\2DMatrixMultiplication\2DMatrixMultiplication\bin\Debug\2DMatrixMultiplication.exe.config
+C:\Users\97798\Documents\C# Programming\2DMatrixMultiplication\2DMatrixMultiplication\bin\Debug\2DMatrixMultiplication.exe
+C:\Users\97798\Documents\C# Programming\2DMatrixMultiplication\2DMatrixMultiplication\bin\Debug\2DMatrixMultiplication.pdb
+C:\Users\97798\Documents\C# Programming\2DMatrixMultiplication\2DMatrixMultiplication\obj\Debug\2DMatrixMultiplication.csproj.AssemblyReference.cache
+C:\Users\97798\Documents\C# Programming\2DMatrixMultiplication\2DMatrixMultiplication\obj\Debug\2DMatrixMultiplication.csproj.CoreCompileInputs.cache
+C:\Users\97798\Documents\C# Programming\2DMatrixMultiplication\2DMatrixMultiplication\obj\Debug\2DMatrixMultiplication.exe
+C:\Users\97798\Documents\C# Programming\2DMatrixMultiplication\2DMatrixMultiplication\obj\Debug\2DMatrixMultiplication.pdb
