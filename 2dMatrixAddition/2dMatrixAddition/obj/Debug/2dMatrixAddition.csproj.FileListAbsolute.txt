@@ -1,0 +1,14 @@
+C:\Users\97798\Desktop\C# Programming\2dMatrixAddition\2dMatrixAddition\obj\Debug\2dMatrixAddition.csproj.AssemblyReference.cache
+C:\Users\97798\Desktop\C# Programming\2dMatrixAddition\2dMatrixAddition\obj\Debug\2dMatrixAddition.csproj.CoreCompileInputs.cache
+C:\Users\97798\Desktop\C# Programming\2dMatrixAddition\2dMatrixAddition\bin\Debug\2dMatrixAddition.exe.config
+C:\Users\97798\Desktop\C# Programming\2dMatrixAddition\2dMatrixAddition\bin\Debug\2dMatrixAddition.exe
+C:\Users\97798\Desktop\C# Programming\2dMatrixAddition\2dMatrixAddition\bin\Debug\2dMatrixAddition.pdb
+C:\Users\97798\Desktop\C# Programming\2dMatrixAddition\2dMatrixAddition\obj\Debug\2dMatrixAddition.exe
+C:\Users\97798\Desktop\C# Programming\2dMatrixAddition\2dMatrixAddition\obj\Debug\2dMatrixAddition.pdb
+C:\Users\97798\Documents\C# Programming\2dMatrixAddition\2dMatrixAddition\bin\Debug\2dMatrixAddition.exe.config
+C:\Users\97798\Documents\C# Programming\2dMatrixAddition\2dMatrixAddition\bin\Debug\2dMatrixAddition.exe
+C:\Users\97798\Documents\C# Programming\2dMatrixAddition\2dMatrixAddition\bin\Debug\2dMatrixAddition.pdb
+C:\Users\97798\Documents\C# Programming\2dMatrixAddition\2dMatrixAddition\obj\Debug\2dMatrixAddition.csproj.AssemblyReference.cache
+C:\Users\97798\Documents\C# Programming\2dMatrixAddition\2dMatrixAddition\obj\Debug\2dMatrixAddition.csproj.CoreCompileInputs.cache
+C:\Users\97798\Documents\C# Programming\2dMatrixAddition\2dMatrixAddition\obj\Debug\2dMatrixAddition.exe
+C:\Users\97798\Documents\C# Programming\2dMatrixAddition\2dMatrixAddition\obj\Debug\2dMatrixAddition.pdb
