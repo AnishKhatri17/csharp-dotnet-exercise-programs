@@ -18,6 +18,7 @@ namespace Factorial
                 fact = fact*i;
             }
             Console.WriteLine("\nThe factorial of a given number is = "+fact);
+            Console.ReadKey();
         }
     }
 }
