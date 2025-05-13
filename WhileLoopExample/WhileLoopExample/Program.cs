@@ -12,11 +12,14 @@ namespace WhileLoopExample
         {
             int i =1 ;
             Console.WriteLine("The natural numbers from 1 to 100 ");
+            
                 while(i <=100)
             {
                 Console.WriteLine(i);
+                
                 i++;
             }
+            Console.ReadKey();
         }
     }
 }
