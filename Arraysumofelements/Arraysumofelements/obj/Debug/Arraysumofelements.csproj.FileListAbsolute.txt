@@ -1,0 +1,14 @@
+C:\Users\97798\Desktop\C# Programming\Arraysumofelements\Arraysumofelements\bin\Debug\Arraysumofelements.exe.config
+C:\Users\97798\Desktop\C# Programming\Arraysumofelements\Arraysumofelements\bin\Debug\Arraysumofelements.exe
+C:\Users\97798\Desktop\C# Programming\Arraysumofelements\Arraysumofelements\bin\Debug\Arraysumofelements.pdb
+C:\Users\97798\Desktop\C# Programming\Arraysumofelements\Arraysumofelements\obj\Debug\Arraysumofelements.csproj.AssemblyReference.cache
+C:\Users\97798\Desktop\C# Programming\Arraysumofelements\Arraysumofelements\obj\Debug\Arraysumofelements.csproj.CoreCompileInputs.cache
+C:\Users\97798\Desktop\C# Programming\Arraysumofelements\Arraysumofelements\obj\Debug\Arraysumofelements.exe
+C:\Users\97798\Desktop\C# Programming\Arraysumofelements\Arraysumofelements\obj\Debug\Arraysumofelements.pdb
+C:\Users\97798\Documents\C# Programming\Arraysumofelements\Arraysumofelements\bin\Debug\Arraysumofelements.exe.config
+C:\Users\97798\Documents\C# Programming\Arraysumofelements\Arraysumofelements\bin\Debug\Arraysumofelements.exe
+C:\Users\97798\Documents\C# Programming\Arraysumofelements\Arraysumofelements\bin\Debug\Arraysumofelements.pdb
+C:\Users\97798\Documents\C# Programming\Arraysumofelements\Arraysumofelements\obj\Debug\Arraysumofelements.csproj.AssemblyReference.cache
+C:\Users\97798\Documents\C# Programming\Arraysumofelements\Arraysumofelements\obj\Debug\Arraysumofelements.csproj.CoreCompileInputs.cache
+C:\Users\97798\Documents\C# Programming\Arraysumofelements\Arraysumofelements\obj\Debug\Arraysumofelements.exe
+C:\Users\97798\Documents\C# Programming\Arraysumofelements\Arraysumofelements\obj\Debug\Arraysumofelements.pdb
