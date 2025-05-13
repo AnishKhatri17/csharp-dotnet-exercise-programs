@@ -1,0 +1,14 @@
+C:\Users\97798\Desktop\C# Programming\2DMatrixTranspose\2DMatrixTranspose\bin\Debug\2DMatrixTranspose.exe.config
+C:\Users\97798\Desktop\C# Programming\2DMatrixTranspose\2DMatrixTranspose\bin\Debug\2DMatrixTranspose.exe
+C:\Users\97798\Desktop\C# Programming\2DMatrixTranspose\2DMatrixTranspose\bin\Debug\2DMatrixTranspose.pdb
+C:\Users\97798\Desktop\C# Programming\2DMatrixTranspose\2DMatrixTranspose\obj\Debug\2DMatrixTranspose.csproj.AssemblyReference.cache
+C:\Users\97798\Desktop\C# Programming\2DMatrixTranspose\2DMatrixTranspose\obj\Debug\2DMatrixTranspose.csproj.CoreCompileInputs.cache
+C:\Users\97798\Desktop\C# Programming\2DMatrixTranspose\2DMatrixTranspose\obj\Debug\2DMatrixTranspose.exe
+C:\Users\97798\Desktop\C# Programming\2DMatrixTranspose\2DMatrixTranspose\obj\Debug\2DMatrixTranspose.pdb
+C:\Users\97798\Documents\C# Programming\2DMatrixTranspose\2DMatrixTranspose\bin\Debug\2DMatrixTranspose.exe.config
+C:\Users\97798\Documents\C# Programming\2DMatrixTranspose\2DMatrixTranspose\bin\Debug\2DMatrixTranspose.exe
+C:\Users\97798\Documents\C# Programming\2DMatrixTranspose\2DMatrixTranspose\bin\Debug\2DMatrixTranspose.pdb
+C:\Users\97798\Documents\C# Programming\2DMatrixTranspose\2DMatrixTranspose\obj\Debug\2DMatrixTranspose.csproj.AssemblyReference.cache
+C:\Users\97798\Documents\C# Programming\2DMatrixTranspose\2DMatrixTranspose\obj\Debug\2DMatrixTranspose.csproj.CoreCompileInputs.cache
+C:\Users\97798\Documents\C# Programming\2DMatrixTranspose\2DMatrixTranspose\obj\Debug\2DMatrixTranspose.exe
+C:\Users\97798\Documents\C# Programming\2DMatrixTranspose\2DMatrixTranspose\obj\Debug\2DMatrixTranspose.pdb
