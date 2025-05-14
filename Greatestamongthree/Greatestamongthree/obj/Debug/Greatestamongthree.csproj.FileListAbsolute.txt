@@ -1,0 +1,7 @@
+C:\Users\97798\Desktop\C# Programming\Greatestamongthree\Greatestamongthree\bin\Debug\Greatestamongthree.exe.config
+C:\Users\97798\Desktop\C# Programming\Greatestamongthree\Greatestamongthree\bin\Debug\Greatestamongthree.exe
+C:\Users\97798\Desktop\C# Programming\Greatestamongthree\Greatestamongthree\bin\Debug\Greatestamongthree.pdb
+C:\Users\97798\Desktop\C# Programming\Greatestamongthree\Greatestamongthree\obj\Debug\Greatestamongthree.csproj.AssemblyReference.cache
+C:\Users\97798\Desktop\C# Programming\Greatestamongthree\Greatestamongthree\obj\Debug\Greatestamongthree.csproj.CoreCompileInputs.cache
+C:\Users\97798\Desktop\C# Programming\Greatestamongthree\Greatestamongthree\obj\Debug\Greatestamongthree.exe
+C:\Users\97798\Desktop\C# Programming\Greatestamongthree\Greatestamongthree\obj\Debug\Greatestamongthree.pdb
