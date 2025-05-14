@@ -1,0 +1,7 @@
+C:\Users\97798\Desktop\C# Programming\ProfitorLoss\ProfitorLoss\bin\Debug\ProfitorLoss.exe.config
+C:\Users\97798\Desktop\C# Programming\ProfitorLoss\ProfitorLoss\bin\Debug\ProfitorLoss.exe
+C:\Users\97798\Desktop\C# Programming\ProfitorLoss\ProfitorLoss\bin\Debug\ProfitorLoss.pdb
+C:\Users\97798\Desktop\C# Programming\ProfitorLoss\ProfitorLoss\obj\Debug\ProfitorLoss.csproj.AssemblyReference.cache
+C:\Users\97798\Desktop\C# Programming\ProfitorLoss\ProfitorLoss\obj\Debug\ProfitorLoss.csproj.CoreCompileInputs.cache
+C:\Users\97798\Desktop\C# Programming\ProfitorLoss\ProfitorLoss\obj\Debug\ProfitorLoss.exe
+C:\Users\97798\Desktop\C# Programming\ProfitorLoss\ProfitorLoss\obj\Debug\ProfitorLoss.pdb
