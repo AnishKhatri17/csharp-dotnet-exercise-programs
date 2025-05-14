@@ -1,0 +1,7 @@
+C:\Users\97798\Desktop\C# Programming\ArrayGreatestAndSmallest\ArrayGreatestAndSmallest\bin\Debug\ArrayGreatestAndSmallest.exe.config
+C:\Users\97798\Desktop\C# Programming\ArrayGreatestAndSmallest\ArrayGreatestAndSmallest\bin\Debug\ArrayGreatestAndSmallest.exe
+C:\Users\97798\Desktop\C# Programming\ArrayGreatestAndSmallest\ArrayGreatestAndSmallest\bin\Debug\ArrayGreatestAndSmallest.pdb
+C:\Users\97798\Desktop\C# Programming\ArrayGreatestAndSmallest\ArrayGreatestAndSmallest\obj\Debug\ArrayGreatestAndSmallest.csproj.AssemblyReference.cache
+C:\Users\97798\Desktop\C# Programming\ArrayGreatestAndSmallest\ArrayGreatestAndSmallest\obj\Debug\ArrayGreatestAndSmallest.csproj.CoreCompileInputs.cache
+C:\Users\97798\Desktop\C# Programming\ArrayGreatestAndSmallest\ArrayGreatestAndSmallest\obj\Debug\ArrayGreatestAndSmallest.exe
+C:\Users\97798\Desktop\C# Programming\ArrayGreatestAndSmallest\ArrayGreatestAndSmallest\obj\Debug\ArrayGreatestAndSmallest.pdb
