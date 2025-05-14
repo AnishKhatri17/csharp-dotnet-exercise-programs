@@ -1,0 +1,7 @@
+C:\Users\97798\Desktop\C# Programming\Find Biggest\Find Biggest\bin\Debug\Find Biggest.exe.config
+C:\Users\97798\Desktop\C# Programming\Find Biggest\Find Biggest\bin\Debug\Find Biggest.exe
+C:\Users\97798\Desktop\C# Programming\Find Biggest\Find Biggest\bin\Debug\Find Biggest.pdb
+C:\Users\97798\Desktop\C# Programming\Find Biggest\Find Biggest\obj\Debug\Find Biggest.csproj.AssemblyReference.cache
+C:\Users\97798\Desktop\C# Programming\Find Biggest\Find Biggest\obj\Debug\Find Biggest.csproj.CoreCompileInputs.cache
+C:\Users\97798\Desktop\C# Programming\Find Biggest\Find Biggest\obj\Debug\Find Biggest.exe
+C:\Users\97798\Desktop\C# Programming\Find Biggest\Find Biggest\obj\Debug\Find Biggest.pdb
