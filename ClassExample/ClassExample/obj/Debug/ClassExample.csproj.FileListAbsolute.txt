@@ -1,0 +1,14 @@
+C:\Users\97798\Desktop\C# Programming\ClassExample\ClassExample\bin\Debug\ClassExample.exe.config
+C:\Users\97798\Desktop\C# Programming\ClassExample\ClassExample\bin\Debug\ClassExample.exe
+C:\Users\97798\Desktop\C# Programming\ClassExample\ClassExample\bin\Debug\ClassExample.pdb
+C:\Users\97798\Desktop\C# Programming\ClassExample\ClassExample\obj\Debug\ClassExample.csproj.AssemblyReference.cache
+C:\Users\97798\Desktop\C# Programming\ClassExample\ClassExample\obj\Debug\ClassExample.csproj.CoreCompileInputs.cache
+C:\Users\97798\Desktop\C# Programming\ClassExample\ClassExample\obj\Debug\ClassExample.exe
+C:\Users\97798\Desktop\C# Programming\ClassExample\ClassExample\obj\Debug\ClassExample.pdb
+C:\Users\97798\Documents\C# Programming\ClassExample\ClassExample\bin\Debug\ClassExample.exe.config
+C:\Users\97798\Documents\C# Programming\ClassExample\ClassExample\bin\Debug\ClassExample.exe
+C:\Users\97798\Documents\C# Programming\ClassExample\ClassExample\bin\Debug\ClassExample.pdb
+C:\Users\97798\Documents\C# Programming\ClassExample\ClassExample\obj\Debug\ClassExample.csproj.AssemblyReference.cache
+C:\Users\97798\Documents\C# Programming\ClassExample\ClassExample\obj\Debug\ClassExample.csproj.CoreCompileInputs.cache
+C:\Users\97798\Documents\C# Programming\ClassExample\ClassExample\obj\Debug\ClassExample.exe
+C:\Users\97798\Documents\C# Programming\ClassExample\ClassExample\obj\Debug\ClassExample.pdb
