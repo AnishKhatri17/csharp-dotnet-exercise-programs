@@ -1,0 +1,7 @@
+C:\Users\97798\Documents\C# Programming\GreatestAmong4\GreatestAmong4\obj\Debug\GreatestAmong4.csproj.AssemblyReference.cache
+C:\Users\97798\Documents\C# Programming\GreatestAmong4\GreatestAmong4\obj\Debug\GreatestAmong4.csproj.CoreCompileInputs.cache
+C:\Users\97798\Documents\C# Programming\GreatestAmong4\GreatestAmong4\bin\Debug\GreatestAmong4.exe.config
+C:\Users\97798\Documents\C# Programming\GreatestAmong4\GreatestAmong4\bin\Debug\GreatestAmong4.exe
+C:\Users\97798\Documents\C# Programming\GreatestAmong4\GreatestAmong4\bin\Debug\GreatestAmong4.pdb
+C:\Users\97798\Documents\C# Programming\GreatestAmong4\GreatestAmong4\obj\Debug\GreatestAmong4.exe
+C:\Users\97798\Documents\C# Programming\GreatestAmong4\GreatestAmong4\obj\Debug\GreatestAmong4.pdb
