@@ -1,0 +1,14 @@
+C:\Users\97798\Desktop\C# Programming\Constructor\Constructor\obj\Debug\Constructor.csproj.AssemblyReference.cache
+C:\Users\97798\Desktop\C# Programming\Constructor\Constructor\obj\Debug\Constructor.csproj.CoreCompileInputs.cache
+C:\Users\97798\Desktop\C# Programming\Constructor\Constructor\bin\Debug\Constructor.exe.config
+C:\Users\97798\Desktop\C# Programming\Constructor\Constructor\bin\Debug\Constructor.exe
+C:\Users\97798\Desktop\C# Programming\Constructor\Constructor\bin\Debug\Constructor.pdb
+C:\Users\97798\Desktop\C# Programming\Constructor\Constructor\obj\Debug\Constructor.exe
+C:\Users\97798\Desktop\C# Programming\Constructor\Constructor\obj\Debug\Constructor.pdb
+C:\Users\97798\Documents\C# Programming\Constructor\Constructor\bin\Debug\Constructor.exe.config
+C:\Users\97798\Documents\C# Programming\Constructor\Constructor\bin\Debug\Constructor.exe
+C:\Users\97798\Documents\C# Programming\Constructor\Constructor\bin\Debug\Constructor.pdb
+C:\Users\97798\Documents\C# Programming\Constructor\Constructor\obj\Debug\Constructor.csproj.AssemblyReference.cache
+C:\Users\97798\Documents\C# Programming\Constructor\Constructor\obj\Debug\Constructor.csproj.CoreCompileInputs.cache
+C:\Users\97798\Documents\C# Programming\Constructor\Constructor\obj\Debug\Constructor.exe
+C:\Users\97798\Documents\C# Programming\Constructor\Constructor\obj\Debug\Constructor.pdb
