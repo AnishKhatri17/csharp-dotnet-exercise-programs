@@ -1,0 +1,7 @@
+C:\Users\97798\Desktop\C# Programming\ResultofStudent\ResultofStudent\bin\Debug\ResultofStudent.exe.config
+C:\Users\97798\Desktop\C# Programming\ResultofStudent\ResultofStudent\bin\Debug\ResultofStudent.exe
+C:\Users\97798\Desktop\C# Programming\ResultofStudent\ResultofStudent\bin\Debug\ResultofStudent.pdb
+C:\Users\97798\Desktop\C# Programming\ResultofStudent\ResultofStudent\obj\Debug\ResultofStudent.csproj.AssemblyReference.cache
+C:\Users\97798\Desktop\C# Programming\ResultofStudent\ResultofStudent\obj\Debug\ResultofStudent.csproj.CoreCompileInputs.cache
+C:\Users\97798\Desktop\C# Programming\ResultofStudent\ResultofStudent\obj\Debug\ResultofStudent.exe
+C:\Users\97798\Desktop\C# Programming\ResultofStudent\ResultofStudent\obj\Debug\ResultofStudent.pdb
