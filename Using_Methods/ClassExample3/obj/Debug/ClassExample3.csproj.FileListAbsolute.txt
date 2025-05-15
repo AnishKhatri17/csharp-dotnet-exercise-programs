@@ -1,0 +1,14 @@
+C:\Users\97798\Desktop\C# Programming\ClassExample3\ClassExample3\bin\Debug\ClassExample3.exe.config
+C:\Users\97798\Desktop\C# Programming\ClassExample3\ClassExample3\bin\Debug\ClassExample3.exe
+C:\Users\97798\Desktop\C# Programming\ClassExample3\ClassExample3\bin\Debug\ClassExample3.pdb
+C:\Users\97798\Desktop\C# Programming\ClassExample3\ClassExample3\obj\Debug\ClassExample3.csproj.AssemblyReference.cache
+C:\Users\97798\Desktop\C# Programming\ClassExample3\ClassExample3\obj\Debug\ClassExample3.csproj.CoreCompileInputs.cache
+C:\Users\97798\Desktop\C# Programming\ClassExample3\ClassExample3\obj\Debug\ClassExample3.exe
+C:\Users\97798\Desktop\C# Programming\ClassExample3\ClassExample3\obj\Debug\ClassExample3.pdb
+C:\Users\97798\Documents\C# Programming\ClassExample3\ClassExample3\bin\Debug\ClassExample3.exe.config
+C:\Users\97798\Documents\C# Programming\ClassExample3\ClassExample3\bin\Debug\ClassExample3.exe
+C:\Users\97798\Documents\C# Programming\ClassExample3\ClassExample3\bin\Debug\ClassExample3.pdb
+C:\Users\97798\Documents\C# Programming\ClassExample3\ClassExample3\obj\Debug\ClassExample3.csproj.AssemblyReference.cache
+C:\Users\97798\Documents\C# Programming\ClassExample3\ClassExample3\obj\Debug\ClassExample3.csproj.CoreCompileInputs.cache
+C:\Users\97798\Documents\C# Programming\ClassExample3\ClassExample3\obj\Debug\ClassExample3.exe
+C:\Users\97798\Documents\C# Programming\ClassExample3\ClassExample3\obj\Debug\ClassExample3.pdb
