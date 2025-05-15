@@ -1,0 +1,7 @@
+C:\Users\97798\Desktop\C# Programming\Object_and_method\Object_and_method\bin\Debug\Object_and_method.exe.config
+C:\Users\97798\Desktop\C# Programming\Object_and_method\Object_and_method\bin\Debug\Object_and_method.exe
+C:\Users\97798\Desktop\C# Programming\Object_and_method\Object_and_method\bin\Debug\Object_and_method.pdb
+C:\Users\97798\Desktop\C# Programming\Object_and_method\Object_and_method\obj\Debug\Object_and_method.csproj.AssemblyReference.cache
+C:\Users\97798\Desktop\C# Programming\Object_and_method\Object_and_method\obj\Debug\Object_and_method.csproj.CoreCompileInputs.cache
+C:\Users\97798\Desktop\C# Programming\Object_and_method\Object_and_method\obj\Debug\Object_and_method.exe
+C:\Users\97798\Desktop\C# Programming\Object_and_method\Object_and_method\obj\Debug\Object_and_method.pdb
