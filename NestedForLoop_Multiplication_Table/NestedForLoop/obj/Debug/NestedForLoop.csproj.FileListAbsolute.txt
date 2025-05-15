@@ -1,0 +1,14 @@
+C:\Users\97798\Desktop\C# Programming\NestedForLoop\NestedForLoop\bin\Debug\NestedForLoop.exe.config
+C:\Users\97798\Desktop\C# Programming\NestedForLoop\NestedForLoop\bin\Debug\NestedForLoop.exe
+C:\Users\97798\Desktop\C# Programming\NestedForLoop\NestedForLoop\bin\Debug\NestedForLoop.pdb
+C:\Users\97798\Desktop\C# Programming\NestedForLoop\NestedForLoop\obj\Debug\NestedForLoop.csproj.AssemblyReference.cache
+C:\Users\97798\Desktop\C# Programming\NestedForLoop\NestedForLoop\obj\Debug\NestedForLoop.csproj.CoreCompileInputs.cache
+C:\Users\97798\Desktop\C# Programming\NestedForLoop\NestedForLoop\obj\Debug\NestedForLoop.exe
+C:\Users\97798\Desktop\C# Programming\NestedForLoop\NestedForLoop\obj\Debug\NestedForLoop.pdb
+C:\Users\97798\Documents\C# Programming\NestedForLoop\NestedForLoop\bin\Debug\NestedForLoop.exe.config
+C:\Users\97798\Documents\C# Programming\NestedForLoop\NestedForLoop\bin\Debug\NestedForLoop.exe
+C:\Users\97798\Documents\C# Programming\NestedForLoop\NestedForLoop\bin\Debug\NestedForLoop.pdb
+C:\Users\97798\Documents\C# Programming\NestedForLoop\NestedForLoop\obj\Debug\NestedForLoop.csproj.AssemblyReference.cache
+C:\Users\97798\Documents\C# Programming\NestedForLoop\NestedForLoop\obj\Debug\NestedForLoop.csproj.CoreCompileInputs.cache
+C:\Users\97798\Documents\C# Programming\NestedForLoop\NestedForLoop\obj\Debug\NestedForLoop.exe
+C:\Users\97798\Documents\C# Programming\NestedForLoop\NestedForLoop\obj\Debug\NestedForLoop.pdb
