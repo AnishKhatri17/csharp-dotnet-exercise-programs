@@ -1,0 +1,14 @@
+C:\Users\97798\Desktop\C# Programming\Object_Oriented\Object_Oriented\bin\Debug\Object_Oriented.exe.config
+C:\Users\97798\Desktop\C# Programming\Object_Oriented\Object_Oriented\bin\Debug\Object_Oriented.exe
+C:\Users\97798\Desktop\C# Programming\Object_Oriented\Object_Oriented\bin\Debug\Object_Oriented.pdb
+C:\Users\97798\Desktop\C# Programming\Object_Oriented\Object_Oriented\obj\Debug\Object_Oriented.csproj.AssemblyReference.cache
+C:\Users\97798\Desktop\C# Programming\Object_Oriented\Object_Oriented\obj\Debug\Object_Oriented.csproj.CoreCompileInputs.cache
+C:\Users\97798\Desktop\C# Programming\Object_Oriented\Object_Oriented\obj\Debug\Object_Oriented.exe
+C:\Users\97798\Desktop\C# Programming\Object_Oriented\Object_Oriented\obj\Debug\Object_Oriented.pdb
+C:\Users\97798\Documents\C# Programming\Object_Oriented\Object_Oriented\bin\Debug\Object_Oriented.exe.config
+C:\Users\97798\Documents\C# Programming\Object_Oriented\Object_Oriented\bin\Debug\Object_Oriented.exe
+C:\Users\97798\Documents\C# Programming\Object_Oriented\Object_Oriented\bin\Debug\Object_Oriented.pdb
+C:\Users\97798\Documents\C# Programming\Object_Oriented\Object_Oriented\obj\Debug\Object_Oriented.csproj.AssemblyReference.cache
+C:\Users\97798\Documents\C# Programming\Object_Oriented\Object_Oriented\obj\Debug\Object_Oriented.csproj.CoreCompileInputs.cache
+C:\Users\97798\Documents\C# Programming\Object_Oriented\Object_Oriented\obj\Debug\Object_Oriented.exe
+C:\Users\97798\Documents\C# Programming\Object_Oriented\Object_Oriented\obj\Debug\Object_Oriented.pdb
