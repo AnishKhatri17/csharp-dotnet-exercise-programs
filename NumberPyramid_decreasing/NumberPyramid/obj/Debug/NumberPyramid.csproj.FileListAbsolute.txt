@@ -1,0 +1,14 @@
+C:\Users\97798\Desktop\C# Programming\NumberPyramid\NumberPyramid\bin\Debug\NumberPyramid.exe.config
+C:\Users\97798\Desktop\C# Programming\NumberPyramid\NumberPyramid\bin\Debug\NumberPyramid.exe
+C:\Users\97798\Desktop\C# Programming\NumberPyramid\NumberPyramid\bin\Debug\NumberPyramid.pdb
+C:\Users\97798\Desktop\C# Programming\NumberPyramid\NumberPyramid\obj\Debug\NumberPyramid.csproj.AssemblyReference.cache
+C:\Users\97798\Desktop\C# Programming\NumberPyramid\NumberPyramid\obj\Debug\NumberPyramid.csproj.CoreCompileInputs.cache
+C:\Users\97798\Desktop\C# Programming\NumberPyramid\NumberPyramid\obj\Debug\NumberPyramid.exe
+C:\Users\97798\Desktop\C# Programming\NumberPyramid\NumberPyramid\obj\Debug\NumberPyramid.pdb
+C:\Users\97798\Documents\C# Programming\NumberPyramid\NumberPyramid\bin\Debug\NumberPyramid.exe.config
+C:\Users\97798\Documents\C# Programming\NumberPyramid\NumberPyramid\bin\Debug\NumberPyramid.exe
+C:\Users\97798\Documents\C# Programming\NumberPyramid\NumberPyramid\bin\Debug\NumberPyramid.pdb
+C:\Users\97798\Documents\C# Programming\NumberPyramid\NumberPyramid\obj\Debug\NumberPyramid.csproj.AssemblyReference.cache
+C:\Users\97798\Documents\C# Programming\NumberPyramid\NumberPyramid\obj\Debug\NumberPyramid.csproj.CoreCompileInputs.cache
+C:\Users\97798\Documents\C# Programming\NumberPyramid\NumberPyramid\obj\Debug\NumberPyramid.exe
+C:\Users\97798\Documents\C# Programming\NumberPyramid\NumberPyramid\obj\Debug\NumberPyramid.pdb
