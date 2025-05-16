@@ -1,0 +1,14 @@
+C:\Users\97798\Desktop\C# Programming\SwitchCaseExample2\SwitchCaseExample2\bin\Debug\SwitchCaseExample2.exe.config
+C:\Users\97798\Desktop\C# Programming\SwitchCaseExample2\SwitchCaseExample2\bin\Debug\SwitchCaseExample2.exe
+C:\Users\97798\Desktop\C# Programming\SwitchCaseExample2\SwitchCaseExample2\bin\Debug\SwitchCaseExample2.pdb
+C:\Users\97798\Desktop\C# Programming\SwitchCaseExample2\SwitchCaseExample2\obj\Debug\SwitchCaseExample2.csproj.AssemblyReference.cache
+C:\Users\97798\Desktop\C# Programming\SwitchCaseExample2\SwitchCaseExample2\obj\Debug\SwitchCaseExample2.csproj.CoreCompileInputs.cache
+C:\Users\97798\Desktop\C# Programming\SwitchCaseExample2\SwitchCaseExample2\obj\Debug\SwitchCaseExample2.exe
+C:\Users\97798\Desktop\C# Programming\SwitchCaseExample2\SwitchCaseExample2\obj\Debug\SwitchCaseExample2.pdb
+C:\Users\97798\Documents\C# Programming\SwitchCaseExample2\SwitchCaseExample2\bin\Debug\SwitchCaseExample2.exe.config
+C:\Users\97798\Documents\C# Programming\SwitchCaseExample2\SwitchCaseExample2\bin\Debug\SwitchCaseExample2.exe
+C:\Users\97798\Documents\C# Programming\SwitchCaseExample2\SwitchCaseExample2\bin\Debug\SwitchCaseExample2.pdb
+C:\Users\97798\Documents\C# Programming\SwitchCaseExample2\SwitchCaseExample2\obj\Debug\SwitchCaseExample2.csproj.AssemblyReference.cache
+C:\Users\97798\Documents\C# Programming\SwitchCaseExample2\SwitchCaseExample2\obj\Debug\SwitchCaseExample2.csproj.CoreCompileInputs.cache
+C:\Users\97798\Documents\C# Programming\SwitchCaseExample2\SwitchCaseExample2\obj\Debug\SwitchCaseExample2.exe
+C:\Users\97798\Documents\C# Programming\SwitchCaseExample2\SwitchCaseExample2\obj\Debug\SwitchCaseExample2.pdb
