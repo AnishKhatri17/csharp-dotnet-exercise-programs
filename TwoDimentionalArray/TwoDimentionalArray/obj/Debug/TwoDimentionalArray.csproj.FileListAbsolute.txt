@@ -1,0 +1,14 @@
+C:\Users\97798\Desktop\C# Programming\TwoDimentionalArray\TwoDimentionalArray\bin\Debug\TwoDimentionalArray.exe.config
+C:\Users\97798\Desktop\C# Programming\TwoDimentionalArray\TwoDimentionalArray\bin\Debug\TwoDimentionalArray.exe
+C:\Users\97798\Desktop\C# Programming\TwoDimentionalArray\TwoDimentionalArray\bin\Debug\TwoDimentionalArray.pdb
+C:\Users\97798\Desktop\C# Programming\TwoDimentionalArray\TwoDimentionalArray\obj\Debug\TwoDimentionalArray.csproj.AssemblyReference.cache
+C:\Users\97798\Desktop\C# Programming\TwoDimentionalArray\TwoDimentionalArray\obj\Debug\TwoDimentionalArray.csproj.CoreCompileInputs.cache
+C:\Users\97798\Desktop\C# Programming\TwoDimentionalArray\TwoDimentionalArray\obj\Debug\TwoDimentionalArray.exe
+C:\Users\97798\Desktop\C# Programming\TwoDimentionalArray\TwoDimentionalArray\obj\Debug\TwoDimentionalArray.pdb
+C:\Users\97798\Documents\C# Programming\TwoDimentionalArray\TwoDimentionalArray\bin\Debug\TwoDimentionalArray.exe.config
+C:\Users\97798\Documents\C# Programming\TwoDimentionalArray\TwoDimentionalArray\bin\Debug\TwoDimentionalArray.exe
+C:\Users\97798\Documents\C# Programming\TwoDimentionalArray\TwoDimentionalArray\bin\Debug\TwoDimentionalArray.pdb
+C:\Users\97798\Documents\C# Programming\TwoDimentionalArray\TwoDimentionalArray\obj\Debug\TwoDimentionalArray.csproj.AssemblyReference.cache
+C:\Users\97798\Documents\C# Programming\TwoDimentionalArray\TwoDimentionalArray\obj\Debug\TwoDimentionalArray.csproj.CoreCompileInputs.cache
+C:\Users\97798\Documents\C# Programming\TwoDimentionalArray\TwoDimentionalArray\obj\Debug\TwoDimentionalArray.exe
+C:\Users\97798\Documents\C# Programming\TwoDimentionalArray\TwoDimentionalArray\obj\Debug\TwoDimentionalArray.pdb
